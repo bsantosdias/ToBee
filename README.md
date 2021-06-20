@@ -1,2 +1,3 @@
 # ToBee
-Protótipo de App criado no primeiro e terceiro semestre do curso de TADS. 
+
+Protótipo de App criado para treinar uso do Adobe XD e administração de projeto. 
